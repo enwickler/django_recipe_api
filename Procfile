@@ -1,0 +1,1 @@
+web: gunicorn --pythonpath tuto tuto.wsgi
